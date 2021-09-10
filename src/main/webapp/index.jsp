@@ -1,6 +1,6 @@
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <title>SMART CITY</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -21,18 +21,22 @@
             <li><a href="#">View</a> </li>
             <li><a href="#">History</a> </li>
             <li><a href="#">Contact</a> </li>
+
         </ul>
+
+
+
+        </div>
+        <div class="searches">
+            <label>
+                <input class="text"  type="search" name="" placeholder="type to text">
+            </label>
+            <a href="#"> <button class="btn">Search</button> </a>
+        </div>
     </div>
-    <div class="search">
-        <input class="text" type="search" name="" placeholder="type to text">
-        <a href="#"> <button class="=btn">Search</button> </a>
-    </div>
-    </div>
+
+
 </div>
-<h1><%=""%>
-    
-</h1>
-<br/>
-<a href="hello-servlet">Hello Servlet</a>
+
 </body>
 </html>
