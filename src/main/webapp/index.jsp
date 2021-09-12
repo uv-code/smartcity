@@ -14,7 +14,7 @@
          </div>
     <div class="menu">
         <ul>
-            <li><a href="#">Home1</a> </li>
+            <li><a href="#">Home</a> </li>
             <li><a href="#">Maps</a> </li>
             <li><a href="#">CityInfo</a> </li>
             <li><a href="#">Travels</a> </li>
