@@ -53,6 +53,7 @@ ul li{
     margin-left: 92px;
     margin-top: 27px;
     font-size: 25px;
+    font-size: 20px;
 
 }
 ul li a {
@@ -65,14 +66,12 @@ ul li a {
 
 }
 ul li a:hover{
-    background-color:  coral;
-
+    color: coral;
 }
-
 .searches{
 
     width: 330px;
-    margin-left: 49%;
+    margin-left: 550px;
     float: left;
     display: inline-block;
 
@@ -89,7 +88,7 @@ ul li a:hover{
 
     background: transparent;
     border: 1px solid coral;
-    margin-top: 17px;
+    margin-top: 30px;
     margin-right: 10px;
     color: black;
 
@@ -115,130 +114,16 @@ ul li a:hover{
     border-bottom-right-radius: 5px;
     outline: none;
     cursor: pointer;
+
+
+
     border-top-right-radius: 5px;
 
 }
-
 .btn:focus{
     outline: none;
 
 }
-.btn:hover{
-     background-color: antiquewhite;
-}
 .text:focus{
     outline: none;
-}
-.content{
-    width: 1200px;
-    height: auto;
-    margin-left: 2%;
-    color: black;
-    position: relative;
-}
-.content .par{
-
-    padding-left: 20px;
-    padding-bottom: 25px;
-    font-family: Arial, serif;
-    letter-spacing: 1px;
-    line-height: 30px;
-    margin-left: 1px;
-
-}
-  .h1{
-    font-family: "Times New Roman", sans-serif;
-    font-size: 50px;
-      margin-left: 1%;
-      color: coral;
-    letter-spacing: 2px;
-
-}
-
-.cn{
-    width: 160px;
-    height: 40px;
-    background: coral;
-    border: none;
-    margin-left: 1%;
-    margin-bottom: 10px;
-   font-size: 18px;
-    border-radius: 10px;
-    cursor: pointer;
-    transition: .4s ease;
-
-
-
-}
-.a{
-    text-decoration: none;
-    color: black;
-    transition: .3s ease;
-}
-.cn:hover{
-
-    background-color: antiquewhite;
-
-
-
-}
-.form{
-    width: 250px;
-    height: 380px;
-    background: linear-gradient(to top, rgba(0,0,0,0.8)50%, rgba(0,0,0,0.8)50%);
-    position: absolute;
-  margin-left: 125%;
-    margin-top: -25%;
-
-    border-radius: 10px;
-    padding: 25px;
-
-
-}
-.form h2{
-    width:  220px;
-    font-family: sans-serif;
-    text-align: center;
-    color: coral;
-    font-size: 22px;
-    background-color: antiquewhite;
-    border-radius: 10px;
-    margin: 2px;
-    padding: 8px;
-
-
-}
-.form input{
-
-    width: 240px;
-    height: 35px;
-    background: transparent;
-    border-bottom:1px;
-    solid-color: coral;
-    border-top: none;
-    border-right: none;
-    border-left: none;
-    color: antiquewhite;
-font-family: sans-serif;
-    font-size: 15px;
-    letter-spacing: 1px;
-}
-.form input:focus{
-    outline: none;
-
-}
-::placeholder{
-    color: white;
-    font-family: Arial;
-
-}
-.baton{
-
-width: 240px;
-    height: 40px;
-    background:coral ;
-    border: none;
-    margin-top: 30px;
-    font-size: 18px;
-    border-radius: 10px;
 }
