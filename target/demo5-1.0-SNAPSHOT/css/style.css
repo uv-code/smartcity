@@ -29,9 +29,9 @@
     color: coral;
     font-size: 35px;
     font-family: Arial, sans-serif;
-    padding-left: 25px;
+    padding-left: 20px;
     float: left;
-    padding-top: 20px;
+    padding-top: 10px;
 }
 .menu{
     width: 400px;
@@ -50,9 +50,8 @@ ul{
 }
 ul li{
     list-style: none;
-    margin-left: 92px;
+    margin-left: 62px;
     margin-top: 27px;
-    font-size: 25px;
     font-size: 20px;
 
 }
